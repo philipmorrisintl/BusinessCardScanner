@@ -1,0 +1,1 @@
+from .scan_card import scan_card
