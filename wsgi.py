@@ -1,3 +1,5 @@
+# Copyright Philip Morris Products S.A. 2019
+
 """
 WSGI config for django_project project.
 

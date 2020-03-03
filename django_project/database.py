@@ -1,3 +1,5 @@
+# Copyright Philip Morris Products S.A. 2019
+
 import os
 
 from django.conf import settings

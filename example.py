@@ -1,3 +1,5 @@
+# Copyright Philip Morris Products S.A. 2019
+
 import os
 import cv2
 import json

@@ -1,3 +1,5 @@
+# Copyright Philip Morris Products S.A. 2019
+
 """django_project URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:

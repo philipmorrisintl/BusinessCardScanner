@@ -1,3 +1,5 @@
+# Copyright Philip Morris Products S.A. 2019
+
 
 from .utils import DebugUtils
 from .CardSplitter import CardSplitter

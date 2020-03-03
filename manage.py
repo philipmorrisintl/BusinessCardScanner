@@ -1,3 +1,5 @@
+# Copyright Philip Morris Products S.A. 2019
+
 #!/usr/bin/env python
 import os
 import sys

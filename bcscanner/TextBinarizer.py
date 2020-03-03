@@ -1,3 +1,5 @@
+# Copyright Philip Morris Products S.A. 2019
+
 import numpy as np
 import cv2
 from shapely.geometry import Point, Polygon
